@@ -1,0 +1,14 @@
+
+a
+java:S1192!"FDefine a constant instead of duplicating this literal "title" 3 times.(ï¼Á×øÿÿÿÿ
+c
+java:S1192!"HDefine a constant instead of duplicating this literal "content" 3 times.(ï¼Á×øÿÿÿÿ
+d
+java:S2095"NUse try-with-resources or close this "StandardAnalyzer" in a "finally" clause.(šöÑş
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ŠÙ¤ß
+F
+java:S18748"+Remove this use of "doc"; it is deprecated.(‰˜€ûÿÿÿÿ
+M	java:S1069"9Replace this use of System.out or System.err by a logger.(æÊôR
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(õß¨éùÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ

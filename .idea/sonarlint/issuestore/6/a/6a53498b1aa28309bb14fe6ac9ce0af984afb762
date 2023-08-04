@@ -1,0 +1,11 @@
+
+b
+java:S1192"FDefine a constant instead of duplicating this literal "title" 4 times.(¹»Ïw8÷ı™1
+f
+java:S2095"IUse try-with-resources or close this "FSDirectory" in a "finally" clause.(àáË÷8şı™1
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(åïèÛùÿÿÿÿ8¨úùŒ™1
+H
+java:S1874."+Remove this use of "doc"; it is deprecated.(ÌÄŸŞ8ˆş™1
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(§Ê¾æûÿÿÿÿ8ˆş™1
+Y
+java:S1128	"<Remove this unused import 'org.apache.lucene.util.BytesRef'.(€ã˜•8•ÓşŒ™1

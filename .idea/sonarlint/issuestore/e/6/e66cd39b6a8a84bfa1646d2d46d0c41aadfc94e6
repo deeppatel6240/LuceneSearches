@@ -1,0 +1,8 @@
+
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ŠÙ¤ß
+H
+java:S1874("+Remove this use of "doc"; it is deprecated.(úÎÅê8Ó¼é˜1
+M	java:S106)"9Replace this use of System.out or System.err by a logger.(æÊôR
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(õß¨éùÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ

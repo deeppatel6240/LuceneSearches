@@ -1,0 +1,21 @@
+
+l
+java:S1192!"JDefine a constant instead of duplicating this literal "dateField" 6 times.(…¾©‰úÿÿÿÿ8ÎõØ‡™1
+i
+java:S1192 "GDefine a constant instead of duplicating this literal "field1" 7 times.(­ı÷øÿÿÿÿ8ÏõØ‡™1
+k
+java:S2095"IUse try-with-resources or close this "FSDirectory" in a "finally" clause.(•í“Ëùÿÿÿÿ8İõØ‡™1
+f
+java:S2095"IUse try-with-resources or close this "IndexWriter" in a "finally" clause.(ñÍĞ¿8İõØ‡™1
+Z
+java:S2589["8Remove this expression which always evaluates to "false"(Ì¹¿±ûÿÿÿÿ8İõØ‡™1
+Z
+java:S2589["8Remove this expression which always evaluates to "false"(Ì¹¿±ûÿÿÿÿ8İõØ‡™1
+f
+java:S2583S"DChange this condition so that it does not always evaluate to "false"(Ú‘˜•úÿÿÿÿ8İõØ‡™1
+X	java:S125?"<This block of commented-out lines of code should be removed.(²öÁ°8çõØ‡™1
+]	java:S125F"<This block of commented-out lines of code should be removed.(ŸŸÛûÿÿÿÿ8èõØ‡™1
+M
+java:S1874o"+Remove this use of "doc"; it is deprecated.(‰˜€ûÿÿÿÿ8êõØ‡™1
+[	java:S106ª"9Replace this use of System.out or System.err by a logger.(–Ãä®ıÿÿÿÿ8ìõØ‡™1
+[	java:S106«"9Replace this use of System.out or System.err by a logger.(¨–‡ûûÿÿÿÿ8íõØ‡™1

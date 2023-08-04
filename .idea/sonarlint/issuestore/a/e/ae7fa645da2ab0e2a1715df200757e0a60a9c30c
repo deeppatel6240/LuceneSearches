@@ -1,0 +1,10 @@
+
+^
+java:S1854$"<Remove this useless assignment to local variable "interval".(¢“…àşÿÿÿÿ8ïí§›1
+{
+java:S2142/"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(­æ·8ïí§›1
+O
+java:S1481$"-Remove this unused "interval" local variable.(¢“…àşÿÿÿÿ8‘ïí§›1
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(Í‡Ò²şÿÿÿÿ8’ïí§›1
+T	java:S1066"9Replace this use of System.out or System.err by a logger.(º´Ó#8“ïí§›1
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(÷›§š8“ïí§›1
